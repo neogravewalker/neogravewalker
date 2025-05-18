@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @neogravewalker
-- 👀 I’m interested in working on Penetration Testing
-- 🌱 I have some experience with WebApp Penetration Testing
-- 💞️ I’m looking to collaborate on any developing skillsets 
-- 📫 How to reach me: Linkedin and Twitter
+📫 How to reach me: Linkedin and Twitter
